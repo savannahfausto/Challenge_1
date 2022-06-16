@@ -8,11 +8,11 @@ This week's challenged aimed to increase the Horiseon website's accessibility us
 
 The following image demonstrates one part of the originial file that uses non-semantic elements:
 
-[This file contains image of index.html with non-semantic div elements](./images/Non-semantic_Elements.png)
+![Image of index.html with non-semantic div elements](./images/Non-semantic_Elements.png)
 
 vs. The following image demonstrates the same part of the file but replaced with semantic elements: 
 
-[This file contains image of index.html with semantic elements](./images/Semantic_Elements.png)
+![Image of index.html with semantic elements](./images/Semantic_Elements.png)
 
 * Added alt attributes to images and icons to increase accessibility. 
 
@@ -29,5 +29,11 @@ vs. The following image demonstrates the same part of the file but replaced with
 * Consolidated repeating CSS to one block of CSS
 
 > All Changes made should be commented out on the CSS file. 
+
+## Mock-Up Screenshot of Horiseon Website
+![Screenshot of deployed Horiseon Website](./images/Horiseon_Website1.png)
+![Screenshot of deployed Horiseon Website](./images/Horiseon_Website2.png)
+## Link to Horiseon Website
+[Horiseon Website](https://savannahfausto.github.io/Challenge_1_Explore_Horiseon_Alt_Attributes/)
 
 
