@@ -24,7 +24,7 @@ vs. The following image demonstrates the same part of the file but replaced with
 
 * Changed div to nav to keep navigation bar styling
 
-*Changed classes to semantic elements where applicable
+* Changed classes to semantic elements where applicable
 
 * Consolidated repeating CSS to one block of CSS
 
